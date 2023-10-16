@@ -1,0 +1,16 @@
+{
+  "server": {
+    "model": "TCP",
+    "port": 8031
+  },
+  "client": {
+    "model": "TCP",
+    "host": "",
+    "port": 8031,
+    "number": 4,
+    "period": 2.0
+  },
+  "log": {
+    "level": "Info"
+  }
+}
